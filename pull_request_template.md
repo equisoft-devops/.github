@@ -1,36 +1,23 @@
-<!-- Inclure le numéro du ticket pour le rendre cliquable, ex: -->
-Jira : DOPS-
+## Jira
+Jira: <!-- ex. DOPS-12345 -->
 
-### Description
-<!--
-Petite description de la pull request :
-- Pourquoi?
-- Comment?
--->
+## Description
+<!--- Describe your changes in detail -->
 
-<!--Qu'est-ce qui a été fait de spécial que les reviewers devraient connaître.-->
-<!--
-### Note aux reviewers
 
--->
+## How I've tested my work ?
 
-<!--
-Expliquer comment il est possible de tester la pull request, n'hésiter pas à inclure des captures d’écran.
-Dans le cas échéant, comment est-ce que c'est possible de la tester?
--->
-### Comment a été testé la pull request?
+[ ] Code inspection and self-review
+[ ] Newly added/modified unit tests/check
+[ ] Test it on staging environment
+[ ] Test it in local environment
+[ ] Simulate the change manually
+
+<!-- You can add explications, test results and/or screenshots. -->
+
+## Links
+<!-- Links to documentation or referrer to another pull request. -->
 - 
 
-<!-- Liste de pull request nécessaire avant celle-ci -->
-<!--
-### Pull request dépendance
--
--->
 
-<!--
-Lien pouvant être utile pour la compréhension de ce ticket
--->
-<!--
-### Liens/Autres
-- 
--->
+<!-- Please do not force push to your PR's branch after you have created your PR, as doing so forces us to review the whole PR again. This makes it harder for us to review your work because we don't know what has changed. -->
