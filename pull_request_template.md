@@ -7,10 +7,10 @@ Jira: <!-- ex. DOPS-12345 -->
 
 ## How I've tested my work ?
 
-[ ] Newly added/modified unit tests/check
-[ ] Test it on staging environment
-[ ] Test it in local environment
-[ ] Simulate the change manually
+- [ ] Newly added/modified unit tests/check
+- [ ] Test it on staging environment
+- [ ] Test it in local environment
+- [ ] Simulate the change manually
 <!-- You can add explications, test results and/or screenshots. -->
 
 ## Links
