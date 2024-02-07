@@ -6,11 +6,4 @@ Jira: <!-- ex. DOPS-12345 -->
 
 
 ## How I've tested my work ?
-- [ ] Test it on staging environment
-- [ ] Test it in local environment
-- [ ] Simulate the change manually
 <!-- You can add explications, test results and/or screenshots. -->
-
-## Links
-<!-- Links to documentation or referrer to another pull request. -->
-- 
